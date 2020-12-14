@@ -1,0 +1,3 @@
+interface Product {
+    operation(): string;
+}
